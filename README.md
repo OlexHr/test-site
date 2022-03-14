@@ -1,21 +1,21 @@
-*git *#OLEXANDR HRUSHKEVYCH**
-##FRONT-END WEB DEVELOPER
+*OLEXANDR HRUSHKEVYCH* 
+##FRONT-END WEB DEVELOPER##
 
-###Contacts:
+###Contacts:###
 Brody, Lviv region, Ukraine
 +38 (093) 103 24 55
 s.grushkevych@gmail.com
 skype: grushkevychs
 ua.linkedin.com/in/Hrushkevych
 
-###LANGUAGE SKILLS:
+###LANGUAGE SKILLS:###
 	Ukrainian – native 
 	English -  intermediate 
 
-###OBJECTIVE:
+###OBJECTIVE:###
 I look for a job where I can improve my skills and I will make every effort to achieve results and to climb a career ladder.
 
-###EDUCATION:
+###EDUCATION:###
 2005 – 2011
 Brody Pedagogical College named after M.Shashkevych Bachelor of Technological Education a teacher of Technologies and Drawing 
 2011 – 2012
