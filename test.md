@@ -21,7 +21,7 @@ Brody Pedagogical College named after M.Shashkevych Bachelor of Technological Ed
 2011 – 2012
 Drohobych Ivan Franko National Pedagogical University Specialist of Technological Education a teacher of Technologies and Drawing
 2009 – 2012
-Ternopil National Economical University Computer Engineering Bachelor of Computer Engineering 
+Ternopil National Economicaladd University Computer Engineering Bachelor of Computer Engineering 
 
 ###WORK EXPERIENCE:
 ArmedSoft 04.2016 – 09.2018 Front-end Developer

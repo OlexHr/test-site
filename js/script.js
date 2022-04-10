@@ -1,8 +1,10 @@
-let a = 1, b = 1;
-
-let c = ++a; // ?
-let d = b++; // ?
-alert(a);
-alert(b);
-alert(c);
-alert(d);
+function calculate(){
+    let a = 5, b = 6;
+    function calculateInner(){
+        let b = 10, c = 12;
+        a += b+c;
+    };
+    calculateInner();
+    console.log ('a = ', a, ';b = ', b);
+}
+calculate();
